@@ -28,7 +28,7 @@ The dataset consists of thousands of labeled plant leaf images across various cl
 - Cherry (including sour) — Healthy, Powdery mildew  
 - Corn — Healthy, Common Rust, Northern Leaf Blight  
 
-📦 **Source:** *[[Insert dataset link here]](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)*  
+📦 **Source:** *[[https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset]]*  
 Images are organized into folders by class and loaded using Keras' `ImageDataGenerator`.
 
 ---
@@ -92,7 +92,7 @@ The app will open in your default browser. Upload a plant leaf image and view th
 - Achieved 83% validation accuracy.
 - Correctly identifies multiple plant diseases with good performance on unseen data.
 
-![App Screenshot](https://drive.google.com/file/d/1IHqo8DL7yAuPCix2JcJZiPbFgbhoVxu5/view?usp=drive_link)
+![App Screenshot]
 
 ---
 
