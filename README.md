@@ -92,7 +92,7 @@ The app will open in your default browser. Upload a plant leaf image and view th
 - Achieved 83% validation accuracy.
 - Correctly identifies multiple plant diseases with good performance on unseen data.
 
-![App Screenshot]
+![App Screenshot](App_ScreenshotPNG.PNG)
 
 ---
 
